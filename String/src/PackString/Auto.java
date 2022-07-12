@@ -9,7 +9,7 @@ final public class Auto {
 		
 		
 	   // String a ="VelocityV";
-		//String b ="Velocity";
+		String b ="Velocity";
 		
 		String c = new String("Velocity");
 		String d = new String("Velocity");
