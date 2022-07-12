@@ -8,7 +8,7 @@ final public class Auto {
 	{
 		
 		
-	    String a ="VelocityV";
+	   // String a ="VelocityV";
 		String b ="Velocity";
 		
 		String c = new String("Velocity");
